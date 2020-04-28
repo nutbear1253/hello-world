@@ -1,2 +1,5 @@
 # hello-world
-just my start
+
+Hi Humans!
+
+Hsuan here, I'm learning how to be a front-end.
